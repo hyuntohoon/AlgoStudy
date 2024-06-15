@@ -48,9 +48,9 @@
 - [알고리즘 강의 자료](https://www.acmicpc.net/school/courses)
 
 ## 멤버
-| 이름         | 역할                      | GitHub ID    |
-|--------------|---------------------------|--------------|
-| tpwls1355    | 테스트 및 문서 작성        | [tpwls1355](https://github.com/tpwls1355) |
-| k-kmw        | 알고리즘 개발 및 최적화    | [k-kmw](https://github.com/k-kmw) |
+| 이름         | GitHub ID    |
+|--------------|--------------|
+| tpwls1355    | [tpwls1355](https://github.com/tpwls1355) |
+| k-kmw        | [k-kmw](https://github.com/k-kmw) |
 
 함께 성장하는 스터디가 되길 바랍니다. 화이팅!
