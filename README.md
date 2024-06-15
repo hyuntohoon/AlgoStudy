@@ -50,7 +50,7 @@
 ## 멤버
 | 이름         | GitHub ID    |
 |--------------|--------------|
-| tpwls1355    | [tpwls1355](https://github.com/tpwls1355) |
-| k-kmw        | [k-kmw](https://github.com/k-kmw) |
+| 김세진    | [tpwls1355](https://github.com/tpwls1355) |
+| 김민욱        | [k-kmw](https://github.com/k-kmw) |
 
 함께 성장하는 스터디가 되길 바랍니다. 화이팅!
