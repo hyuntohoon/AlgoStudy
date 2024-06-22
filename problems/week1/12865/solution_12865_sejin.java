@@ -1,11 +1,11 @@
-package baekjoon;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class prob12865_2 {
+public class solution_12865_sejin {
     static int N, K;
     static StringTokenizer st = null;
     static int[] dp;
