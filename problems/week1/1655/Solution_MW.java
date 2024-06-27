@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class 가운데를말해요_1655 {
+public class solution_mw {
 
     public static void main(String[] args) throws IOException {
 
